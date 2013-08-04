@@ -1,0 +1,11 @@
+git config --global user.name "me"
+git config --global user.email "myemail@abc.com"'
+git init myProjectDirectory
+git add .
+git commit -a -m "my commit comment"
+git log <branchname>
+git branch
+git branch <newbranchname> <SHA1 of specific commit>
+git branch <newbranchname>
+git checkout <branchname>
+git clone URLOfRepoYouWant
