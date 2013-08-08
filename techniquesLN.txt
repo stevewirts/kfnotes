@@ -1,0 +1,307 @@
+bows
+     1	general bow
+     2	basic bow
+
+fist way
+     3	show parts of the fist
+     4	wind hands on waist
+     5		breakdown (4)
+     6	how to form a fist breakdown (4)
+     7	other ways to hold a fist (4)
+
+punches
+     8	lunar punch
+     9	square punch
+    10	solar punch
+    11	buffalo horn punch
+    12	backfist punch
+    13		hanging
+    14		sweeping
+    15		swinging
+
+leg way
+    16	show parts of the foot
+
+kicks
+    17	front groin kick
+    18		breakdown (4)
+    19	front through heart kick
+    20		breakdown (4)
+    21	side shovel kick
+    22		breakdown (4)
+    23	tiger tail
+    24		breakdown (4)
+    25	back groin kick
+    26		groin high
+    27			breakdown (4)
+    28		waist high
+    29			breakdown (4)
+    30	back through heart/stamp
+    31		breakdown (4)
+    32	bow leg
+    33	reverse bow leg
+    34		a
+    35		b
+
+leg supplementary exercises
+    36	pressing-leg f,s,b
+    37	holding-leg h,v
+    38	hanging-leg f,s,b
+    39	swinging-leg f,s,b
+    40	kicking-leg all teks in order
+    41	loosening-leg i,o		
+    42	striking-leg f,s,b, 1-4 hit
+
+palm way
+    43	show parts of the palm
+    44	how to form a palm (4 count)
+
+palm strikes
+    45	outer cutting palm
+    46	inner cutting palm
+    47	palm back
+    48		hanging
+    49		sweeping
+    50		swinging
+    51	palm heart
+    52	palm corner
+    53	palm heel
+
+palm supplementary exercises
+    54	pressing palm
+    55	holding palm u,d
+    56	turning palm i,o 
+
+stances
+    57	close feet stance
+    58	open tow stance
+    59	nature stance 
+    60		narrower than shoulders
+    61		wider than shoulder
+    62	left/right side nature stance
+    63	open leg stance
+    64	universal stance
+    65		breakdown (4)
+    66		1 motion
+    67		emergency
+    68	horse stance
+    69		breakdown (4)
+    70		1 motion
+    71		emergency
+    72	bow and arrow stance
+    73		breakdown (7)
+    74		1 motion (stepping)
+    75		emergency
+    76	light leg stance
+    77	hanging leg stance	
+
+stepping and jumping
+    78	close feet short stepping
+    79	new moon stepping
+    80	close feet side stepping
+    81	front-rear cross leg side stepping
+    82	front-rear cross leg half circle turning side stepping
+
+turning and shifting
+    83	closed feet left-right heel toe turning
+    84	closed feet four direction turning
+    85	cross leg right-side heel toe turning
+    86	change direction shifting
+    87	front/rear cross leg turning
+
+falling 
+    88	falling	sitting	back
+    89			back (4 count)
+    90			side
+    91			side (4 count)
+    92		squating back
+    93			back (4 count)
+    94			side
+    95			side (4 count)
+    96		standing back
+    97			back (4 count)
+    98			side
+    99			side (4 count)
+   100			front
+   101			front (4 count)
+
+breathing
+   102	normal breathing 5-2-5 (inhale,hold,exhale)
+   103	deep breathing 8-2-8
+   104	adjust breathing 10-2-10
+
+meditation
+   105	standing meditation
+   106	sitting/chair sitting meditation
+   107	lying meditation
+   108	side lying meditation (top leg bent, 1 arm straight up)
+
+blocking
+   109	plum flower fist blocking
+   110		(6 count)
+   111	plum flower palm blocking
+   112		(6 count)
+   113	snow flake fist blocking
+   114		(7 count)
+   115	snow flake palm blocking
+   116		(7 count)
+   117	mighty god 8 way fist blocking
+   118		(8 count)
+   119	mighty god 8 way palm blocking
+   120		(8 count)
+   121	long and short separate dragon hand fist blocking
+   122	long short and separate dragon hand palm blocking
+
+system A
+   123	two hand push the sky
+   124	bow and arrow shoot the eagle
+   125	one arm raise
+   126	looking behind
+   127	head and body swinging
+   128	toe standing
+   129	punching
+   130	body bending
+
+system B
+   131	shake out wrists
+   132	shake out ankles
+   133	trunk twisting
+   134	neck tensing
+   135	arm swinging
+   136	finger grabbing
+   137	back squeezing
+   138	pushups shoulder width
+   139	pushups wider than shoulders
+   140	pushups chinese style
+   141	body hitting
+   142	toe touches
+   143	leg shifting
+   144	forehead touches floor
+   145	forehead touches shoes
+   146	situps
+   147	leg raises
+   148	running in place
+   149	adjust breathing
+
+leg stretching
+   150	kissing shoe
+   151	squat lying leg
+   152	high pressing leg
+   153	stamp stretch leg
+   154	stamp sky leg
+   155	front stretch rear kneeling leg 
+   156	side straight line leg
+   157	front-rear straight line leg
+   158	front-rear lie down side straight line leg
+   159	front-rear lie down front-rear straight line leg	
+
+springing legs
+   160	square fist (18)
+   161	cross legs (12)
+   162	strike and smash (18)
+   163	twist stance push hands (24)
+   164	block and strike (15)
+   165	double wind (18)
+   166	single wind (15)
+   167	stamp kick (30)
+   168	spring legs ending form
+
+forearm conditioning
+   169	reverse pressing blocking arranged form
+   170	over blocking blocking arranged form
+   171	elbow striking blocking arranged form
+
+northern arranged fighting form
+   172	northern arranged fighting form attack set (29)
+   173	northern arranged fighting form defense set (29)
+   174	northern arranged fighting form combined (29)
+
+hand conditioning
+   175	palm heart
+   176	palm back
+   177	outer cutting edge
+   178	fist face
+   179	finger tips
+
+single hit self defense 
+   180	solar punch to nose
+   181		(4 count)
+   182	four fingers to eyes
+   183		(4 count)
+   184	joint punch to bridge of nose 
+   185		(4 count)
+   186	palm corner to chin
+   187		(4 count)
+   188	chop to neck 
+   189		(4 count)
+   190	jump chop collar bone
+   191		(4 count)
+   192	knee or kick to groin or solar plexus
+   193		(4 count)
+   194	tiger paw strike to groin
+   195		(4 count)
+   196	elbow to solar plexus or chin
+   197		(4 count)
+   198	catch arm throw
+   199		(4 count)
+
+escape techniques
+
+handshake
+   200	squeeze thumb
+   201		with thumb
+   202	        with first two fingers
+   203	armpit thumb poke
+   204	dig knuckle into back of hand
+   205	eye poke
+   206	knee or kick groin
+   207		no eye poke
+   208		with eye poke
+
+single wrist grab same hand
+   209	squeeze thumb
+   210		with thumb
+   211		with first two fingers
+   212	arm pull, grab chest, break arm or throw
+   213	lock opponents fingers twist arm
+   214	elbow to chin or solar plexus
+   215	knee or kick groin
+   216		no eye poke
+   217		with eye poke
+
+single wrist grab opposite hand	
+   218	twist arm quickly up down around over down 
+   219	upset (push over backwards) opponent
+   220		grab behind groin, push down
+   221		grab groin and push
+   222		grab behind groin, step behind push
+   223	pull arm toward body against opponent thumb
+   224		use one arm only
+   225		use other arm to help
+   226	throw opponent
+   227		bow and arrow throw
+   228		pull mountain throw
+   229	knee or kick groin
+   230		no eye poke
+   231		with eye poke
+
+two wrist grab
+   232	pull up with biceps
+   233	arm spread outward, step behind, push
+   234	pull up twist against opponents thumb
+   235	stamp kick to shin
+   236	knee or kick groin
+   237		no eye poke
+   238		with eye poke
+
+collar (single grab)	
+   239  two hand grab arm, twist burn wrist
+   240	two hands slap head, thumb to eyes, head butt
+   241	turn against opponent’s wrist
+   242		grab with one hand while turning
+   243		no grab while turning
+   244		grab with two hands, break wrist/shoulder/elbow
+   245	bow and arrow throw
+   246	knee or kick groin
+   247		no eye poke
+   248		with eye poke
