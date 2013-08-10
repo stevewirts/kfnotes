@@ -1,3 +1,5 @@
+Every Demonstratable Technique
+
 bows
      1	general bow
      2	basic bow
@@ -11,7 +13,7 @@ fist way
 
 punches
      8	lunar punch
-     9	square punch
+     9	vertical punch
     10	solar punch
     11	buffalo horn punch
     12	backfist punch
@@ -305,3 +307,4 @@ collar (single grab)
    246	knee or kick groin
    247		no eye poke
    248		with eye poke
+
