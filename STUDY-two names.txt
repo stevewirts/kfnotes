@@ -1,0 +1,33 @@
+KFWS Things with more than one name
+
+primary name				secondary name
+----------------------------------------------------------
+parts of a fist
+	fist ring			fist hammer
+
+fist way
+	lunar fist			female fist
+	vertical fist			square fist
+	solar fist			male fist
+	buffalo horn 			hook punch
+
+leg way
+	front groin kick		front snap kick
+	front through heart kick	front stamp kick
+	side shovel kick		side snap kick
+	tiger tail kick			side stamp kick
+	back groin kick a		back groin kick groin height
+	back groin kick b		back groin kick waist height
+	back through heart kick		back stamp kick
+	bow leg kick			half circle kick
+	reverse bow leg	a		reverse bow leg forward kicking
+	reverse bow leg	b		reverse bow leg backward kicking
+
+palm way (flower)
+	outer cutting palm		palm side
+	inner cutting palm		inner palm side
+	palm corner			back axe palm
+
+springing legs
+	double loop			double wind
+	single loop			single wind

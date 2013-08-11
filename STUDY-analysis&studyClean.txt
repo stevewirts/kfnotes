@@ -57,12 +57,12 @@ Analysis and Study
 		Kicking and punching
 		Catching and winding
 		Choking
-		Discipline techniques
-     		Dodging
 		Grabbing and holding
 		Ground fighting
 		Throwing
 		Tumbling and rolling
+		Discipline techniques
+     		Dodging
 
 09) breathing and meditation
 	(internal)
@@ -105,7 +105,7 @@ Analysis and Study
 		Paragraph: 			group of sentences
 		Composition/Speech: 		Form
 		Famous Article/Expert Speech:	Famous Form
-	(Advantages of form) (4) (4 FECE's)
+	(Advantages of form) (4 FECE)
 		Forms were designed as intended by master
 		Each form has a specific purpose and feature
 		Can practice many techniques more easily in a short time

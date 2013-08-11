@@ -1,0 +1,63 @@
+KFWS Things with a number of items count
+
+count of items		name
+----------------------------------------------------------
+ 3			back fist punches
+ 3			palm back punches
+ 3			palm supplementary exercises
+ 3			basic breathing and meditation teks
+
+ 4			count wind hands on waist breakdown
+ 4			count how to form a fist breakdown
+ 4			count how to form a palm breakdown
+ 4			count front groin kick breakdown
+ 4			count front through heart kick breakdown
+ 4			count side shovel kick breakdown
+ 4			count tiger tail breakdown
+ 4			count back groin kick a breakdown
+ 4			count back groin kick b breakdown
+ 4			count back through heart kick breakdown
+ 4			count universal stance breakdown
+ 4			count horse stance breakdown
+ 4			meditation postures
+ 4			ways to form a fist
+ 4			stance supplementary exercises			
+ 4			stepping and jumping supplementary exercises
+
+ 5			basic punching teks
+ 5			basic stepping and jumping teks
+ 5			basic turning and shifting teks
+ 5			parts of the fist
+
+ 6			basic palm teks
+
+ 7			count bow and arrow stance breakdown 
+ 7			parts of the foot
+ 7			supplementary leg exercises
+
+ 8			kicking teks
+ 8 			parts of the palm
+ 8			basic blocking teks
+ 8			basic springing leg teks
+
+ 9			parts of the uniform
+
+10			basic stance teks
+10			leg stretching exercises
+10			single hit self defenses
+
+12			count cross legs
+
+15			count block and strike
+15			count single loop
+
+18			count strike and smash
+18			count square fist
+18			count double wind
+
+24			count twist stance push hands
+
+29			count northern arranged fighting form
+			*switch after 18*
+
+30			count stamp kick
