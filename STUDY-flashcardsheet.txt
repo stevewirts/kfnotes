@@ -62,8 +62,8 @@
 ----------------------------------------------------
 09 breathing and meditation
 1) analysis
-2) basic teks
-3) meditation postures
+2) basic breathing teks
+3) meditation postures/techniques
 ----------------------------------------------------
 10 blocking and protection
 1) analysis
@@ -82,8 +82,8 @@
 13 forms
 1) analysis
 2) springing legs history
-3) PMAG
-4) springing legs basic teks and counts
+3) springing legs basic teks and counts
+4) PMAG
 ----------------------------------------------------
 14 arranged forms
 1) analysis
@@ -100,7 +100,7 @@
 ----------------------------------------------------
 16 fighting
 1) analysis
-2) PSAH
+2) PMAG+
 ----------------------------------------------------
 17 self defense
 1) analysis
@@ -116,3 +116,5 @@
 1) analysis
 2) mental and physical characteristics
 3) temple medicines
+4) food selection
+5) supplementary foods

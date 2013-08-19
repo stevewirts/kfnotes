@@ -19,7 +19,7 @@ describe wrist arm analysis
 show me how to form a fist
 what are the other ways to show "how to form a fist"
 describe punching theory
-how many other ways to form a fist are there?
+how many other ways to hold a fist are there?
 	demonstrate them
 how many and what are the basic fist way techniques?
 	demonstrate them (angles?)
