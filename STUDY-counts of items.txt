@@ -5,7 +5,8 @@ count of items		name
  3			back fist punches
  3			palm back punches
  3			palm supplementary exercises
- 3			basic breathing and meditation teks
+ 3			basic breathing teks
+ 3			basic meditation postures/teks
 
  4			count wind hands on waist breakdown
  4			count how to form a fist breakdown
@@ -19,7 +20,6 @@ count of items		name
  4			count back through heart kick breakdown
  4			count universal stance breakdown
  4			count horse stance breakdown
- 4			meditation postures
  4			ways to form a fist
  4			stance supplementary exercises			
  4			stepping and jumping supplementary exercises

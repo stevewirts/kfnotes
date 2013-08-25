@@ -29,8 +29,10 @@ practice systems/methods
 
 1) what is kung fu wu su (2)
 	a) kung:discipline, fu:person, wu:martial art, su: techniques
-	b) (true meaning) dar:character, 
-		tse:mental training, tee:physical trainging 
+	b) (true meaning) - dar tse tee 
+		dar:character, sounds like "far" 
+		tse:mental training, sounds like "set" without the "t" at the end
+		tee:physical training, sounds like saying the letter "t" 
 
 2) history of Kung-Fu Wu-Su (3)
 	a) broad meaning
@@ -101,7 +103,7 @@ practice systems/methods
 2) wrist/arm analysis and study
 	a) straight line with forearm, fist, and wrists
 	b) make contact with first 2 knuckles
-	c) different punches have different angels
+	c) different punches have different angles
 		lunar		90 degrees
 		vertical	135 degrees
 		solar		180 degrees
@@ -149,23 +151,23 @@ practice systems/methods
 ----------------------------------------------------
 03 leg way
 
-1) parts of the foot (7)
+1) analysis and study: parts of the foot (7)
 		a) ball
-		b) outside
-		c) bottom
-		d) inside
-		e) toe
-		f) chest
-		g) heel
+	b) outside
+	c) bottom
+	d) inside
+	e) toe
+	f) chest
+	g) heel
 
 2) foot and leg analysis (2)
-		a) straight line
-		b) angle-don't lock your knee
+	a) straight line
+	b) angle-don't lock your knee
 
 2) kicking theory (3)
 	a) relax
 	b) concentrate
-	c) strike instantly to vital points with tense foot at impact to avoid injury
+	c) strike instantly with tense foot at impact to avoid injury
 	d) retract quickly
 	e) Use stepping, turning and shifting for power when striking
 
@@ -221,7 +223,7 @@ practice systems/methods
 3) palm strike theory (3)
 	a) relax
 	b) concentrate
-	c) strike vital points instantly with tense palm at impact to avoid injury
+	c) strike instantly with tense palm at impact to avoid injury
 	d) retract quickly
 	e) Use stepping, turning and shifting for power when striking
 
@@ -250,7 +252,7 @@ practice systems/methods
 ----------------------------------------------------
 05 stances
 
-1) analysis (3)
+1) analysis and study (3)
 	a) be aware of center of gravity
 	b) maintain good posture
 	c) maintain good balance
@@ -283,19 +285,13 @@ practice systems/methods
 ----------------------------------------------------
 06 stepping and jumping
 
-1) analysis (6)
-	(stepping)
-		a) be aware of center of gravity
-		b) maintain good posture
-		c) maintain good balance
-		d) maintain good speed
-		e) practice with discipline techniques
-		f) be aware of lines and curves
-	(jumping)
-		a) straight
-		b) curve
-		c) zig zag
-		d) circle
+1) analysis and study (6)
+	a) be aware of center of gravity
+	b) maintain good posture
+	c) maintain good balance
+	d) maintain good speed
+	e) practice with discipline techniques
+	f) be aware of lines and curves
 
 2) basic teks (5)
 	a) close feet short
@@ -305,9 +301,9 @@ practice systems/methods
 	e) front-rear cross leg half circle turning side
 
 3) supplementary exercises (4)
+	c) stepping and jumping with weights
 	a) straight line, curve line, zig-zag line, circle line
-	b) straight line, curve line, zig-zag line, circle line with weights
-	c) jumping/stepping with weights
+		with and without weights
 	d) running with weights
 
 4) PSAH (8)
@@ -315,7 +311,7 @@ practice systems/methods
 ----------------------------------------------------
 07 turning and shifting
 
-1) analysis (5)
+1) analysis and study (5)
 	a) be aware of center of gravity
 	b) maintain good posture
 	c) maintain good balance
@@ -330,16 +326,16 @@ practice systems/methods
 	e) front/rear cross leg turning
 
 3) supplementary exercises (3)
+	c) turning and shifting with speed and weights
 	a) spinning with weights
-	b) walking or running with speed and weights
-	c) turning or shifting with speed and weights
+	b) walking and running with speed and weights
 
 4) PSAH (8)
 
 ----------------------------------------------------
 08 special techniques
 
-1) analysis
+1) analysis and study
 	a) fighting (9)
 		1) kicking and punching
 		2) catching and winding
@@ -362,44 +358,41 @@ practice systems/methods
 ----------------------------------------------------
 09 breathing and meditation
 
-1) analysis
-	a) internal (2)
-		to combine techniques of breathing,
-			concentration, meditation,
-			and mind control in 
-			1) motion and
-			2) motionless
-			situations
-	b) breathing (3)
-		1) create blood circulation
-		2) build up intestines and organs
-		3) develop motion and motionless techniques
+1) analysis and study (4)
+	a) create blood circulation
+	b) build up intestines and organs
+	c) develop motion and motionless techniques
+	d) strengthen and cleanse the lungs
 
-2) basic breathing teks (3)
+2) what are the types of breathing and meditation (2)	
+	a) motion
+	b) motionless
+
+3) basic breathing teks (3)
 	a) normal 5-2-5 (inhale,hold,exhale)
 	b) deep 8-2-8
 	c) adjust 10-2-10
 
-3) meditation postures(techniques) (3)
+4) meditation postures(techniques) (3)
 	a) standing
-	b) sitting/chair sitting
-	c) back/*side lying
+	b) sitting - floor/chair sitting
+	c) lying - on your back/*on your side 
 	   *on right side only - heart on left
 	    easier to pump blood
 
 ----------------------------------------------------
 10 blocking and protection
 
-1) analysis (2)
-	a) History – blocking originated as a means to ensure survival. 
-		     Most blocking in this system comes from forms.
-      	b) Purpose – types of techniques (2)  
-		1) Attack - gives you 50% chance of being killed
-		2) Defense – gives you a better chance of survival 
-
+1) analysis and study (2)
+	a) learn blocking well because it gives you a better chance of survival
+		1) blocking originated as a means to ensure survival. 
+		2) most blocking in this system comes from forms.
+     
 2) basic teks 
 	a) blocking (8)
 		1) plum flower fist
+			a) 6 count breakdown
+			b) 1-1,1-2,2-1,2-2,3-1,3-2,4-1,4-2,5,6
 		2) plum flower palm
 		3) snow flake fist
 		4) snow flake palm
@@ -412,14 +405,14 @@ practice systems/methods
 ----------------------------------------------------
 11 exercises
 
-1) analysis (4)
+1) analysis and study (4)
 	a) blood circulation
 	b) muscle development
 	c) internal health
 	d) strength
 
 2) basic teks
-	a) system a (8)
+	a) system a "ancient art exercise" (8)
 		1) two hand push the sky
 		2) bow and arrow shoot the eagle
 		3) one arm raise
@@ -477,7 +470,7 @@ practice systems/methods
 ----------------------------------------------------
 12 theory
 
-1) analysis (3)
+1) analysis and study (3)
  	a) dar:character - maintain good attitude and character 
 	b) tse:mental training - maintain good knowledge and intuition 
 	c) tee:physical training - always try to improve technique
@@ -497,7 +490,7 @@ practice systems/methods
 ----------------------------------------------------
 13 forms
 
-1) analysis (5)
+1) analysis and study (5)
 	a) fixed series of poses or continuous body positions
 		and movements which include many of the KFWS teks.
 	b) as compared to literature
@@ -531,7 +524,7 @@ practice systems/methods
 		6) training
 
 2) springing legs history (3)
-	a) tam toay invented in shangtung province by monk shuen ken
+	a) tam toy invented in shangtung province by monk shuen ken
 	b) springing legs invented in hon nam province by tam
 	c) development depends on region, climate and people
 
@@ -561,7 +554,7 @@ practice systems/methods
 ----------------------------------------------------
 14 arranged fighting forms and combinations
 
-1) analysis (2)
+1) analysis and study (2)
 	a) a form performed by 2 people arranged in 
 		attack and defense sets 
 	b) gives a student experience with an opponent
@@ -589,10 +582,9 @@ practice systems/methods
 ----------------------------------------------------
 15 discipline techniques
 
-1) analysis (2)
-	1) discipline teks are tecks requiring special training
+1) analysis and study (2)
+	a) discipline teks are tecks requiring special training
 		that provide unusual damaging power.
-	2) train every day and expect results in 1-3 years
 
 2) basic teks
 	a) 5 unit method: to toughen hands 
@@ -625,9 +617,9 @@ practice systems/methods
 ----------------------------------------------------
 16 fighting
 
-1) analysis (1)
+1) analysis and study(1)
 	a) as compared to literature
-		1) Alphabet:		body study
+		1) Alphabet:		body study(anatomy)
 		2) Words: 		punching, kicking, 
 					blocking, etc.
 		3) Grammar:		Theory, defense techniques
@@ -643,7 +635,7 @@ practice systems/methods
 ----------------------------------------------------
 17 self defense
 
-1) analysis (3)
+1) analysis and study(3)
 	a) finish a fight as soon as possible
 	b) defend yourself before learning fighting
 	c) use any object to defend yourself
@@ -740,7 +732,7 @@ practice systems/methods
 ----------------------------------------------------
 20 health and medicine
 
-1) analysis (1)
+1) analysis and study (1)
 	a) Purpose of Kung-Fu Wu-Su is to create a 
 		better person who lives the best life possible
 
