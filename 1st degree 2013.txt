@@ -11,7 +11,7 @@ practice systems/methods
 	g) fighting dancing
 	h) fighting
 
-(PMAG) practice method A-G(7) chapters(13,14,16+(h)accurate and sharp)
+(PMAG) practice method A-G(7) chapters(13,14,16+)
 	a) basic 
 	b) slow
 	c) slow with power
@@ -19,6 +19,8 @@ practice systems/methods
 	e) fast with power
 	f) beautify
 	g) discipline teks
+	+16) accurate and sharp
+	+16) graceful and fantastic
 
 (PMAB) Practice method A-B(2) chapters(17,18)
 	a) basic
